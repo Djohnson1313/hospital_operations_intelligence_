@@ -12,3 +12,6 @@ operations_data/
 .DS_Store
 
 __pycache__/
+
+# generated sqlite database
+hospital.db
