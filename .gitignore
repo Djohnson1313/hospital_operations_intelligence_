@@ -1,0 +1,13 @@
+# ignore 
+# files
+appointments.csv
+billing.csv
+doctors.csv
+patients.csv
+treatment.csv
+
+# checkpoint and ds store
+
+.ipynb_checkpoints/
+
+.DS_Store
