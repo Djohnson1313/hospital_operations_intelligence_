@@ -1,13 +1,14 @@
+# project : hospital_operations_anaylis 
 # ignore 
+
 # files
-appointments.csv
-billing.csv
-doctors.csv
-patients.csv
-treatment.csv
+
+operations_data/
 
 # checkpoint and ds store
 
 .ipynb_checkpoints/
 
 .DS_Store
+
+__pycache__/
